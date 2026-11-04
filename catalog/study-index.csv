@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ch01,Folded Note,pack-local equal-tempered pitch collection,D,82,4/4,480,32,61440,midi/ch01-folded-note/ch01-folded-note-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ch02,Low Sun,pack-local equal-tempered pitch collection,F,82,4/4,480,32,61440,midi/ch02-low-sun/ch02-low-sun-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ch03,Corner Desk,pack-local equal-tempered pitch collection,G#,82,4/4,480,32,61440,midi/ch03-corner-desk/ch03-corner-desk-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ch04,Evening Page,pack-local equal-tempered pitch collection,D#,82,4/4,480,32,61440,midi/ch04-evening-page/ch04-evening-page-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

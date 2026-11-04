@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/chillhop-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "9a780a6e4aed1c4b9b1a9eca58876618f696eaa0d3bb6eece0689fedf6a366f8",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "e7832d01458054d4b9a151241247bd6e9877728bfa7589edc859246750c84ecd",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
