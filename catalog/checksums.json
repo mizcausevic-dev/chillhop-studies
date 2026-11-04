@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3666,
+      "sha256": "a09d24c38338291caa1eda45ac76f20bd2c9d28ef819d61b3b776c1a8886c8a6"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -63,8 +73,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1575,
-      "sha256": "34bf6ce2d29474d5f7c74c0e35d5d9baf06697432ac1847a10a5e8a5166a67bc"
+      "bytes": 1797,
+      "sha256": "6d288be4098b709e10f0515841fb0f65e390a7aefd3ffcb501b89aee298b4ab5"
     },
     {
       "path": "catalog/release-spec.json",
@@ -103,8 +113,8 @@
     },
     {
       "path": "downloads/chillhop-studies-midi.zip",
-      "bytes": 21650,
-      "sha256": "12f1caf2c1dbe09ad3e49ed098d602c48fbc88c1b506794f9069fc462690dc79"
+      "bytes": 22678,
+      "sha256": "9c2e3241b47c0623a50668e3ddb46346a2559fb10cf719dfcec97c74fa795ab6"
     },
     {
       "path": "film/poster.jpg",
@@ -278,13 +288,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1046,
-      "sha256": "ef6fd8b2b187bcba0127d0bbe5d71e3f6eacc5fcc523e616cdb6ad1ed3ebe651"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3505,
-      "sha256": "57e68379b31bacccb5cf4adc096d3bf589f6b915c96f927888dca38bfbc9be91"
+      "bytes": 1129,
+      "sha256": "ab438dac1ec82d2f168706ef165ebe4cb9e9c61d4cb4d05e946702d8e2139380"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -313,13 +318,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 59060,
-      "sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b"
+      "bytes": 59237,
+      "sha256": "4f287a942b42d24d0fdad95868f2b08cf1ef059a4f9c63d5882a461c5dc6efe7"
     },
     {
       "path": "tools/polish_release.py",
