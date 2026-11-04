@@ -1,0 +1,26 @@
+{
+  "title": "Chillhop-Inspired",
+  "study": "ch01",
+  "bpm": 82,
+  "source_audio": "preview/chillhop-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "9a780a6e4aed1c4b9b1a9eca58876618f696eaa0d3bb6eece0689fedf6a366f8",
+  "source_midi": "midi/ch01-folded-note/ch01-folded-note-combined.mid",
+  "source_midi_sha256": "c7c572755ae53a6b32159aaa7e9137c986fc8d5f41027503ae6fe99b4551cf7a",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c1105e20cc7c16818113255a34f5f9c3800b69f809a8b6d4f50dd8f0273c743b",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "76f0e4a39599417f4abdd54b4bbea414d1a264fe696f4600ab9d354d6d233b5e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "edbe97b9b223fd193bc1b337fab809d4de0e70836b70228dd91b16e6e71010c8",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
