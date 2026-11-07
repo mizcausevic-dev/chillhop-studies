@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 786,
-      "sha256": "bd71623db4de638231f52254b697879c094749d4463869b1cda70b68987e5f1f"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3666,
-      "sha256": "a09d24c38338291caa1eda45ac76f20bd2c9d28ef819d61b3b776c1a8886c8a6"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/chillhop-studies-midi.zip",
-      "bytes": 22678,
-      "sha256": "9c2e3241b47c0623a50668e3ddb46346a2559fb10cf719dfcec97c74fa795ab6"
+      "bytes": 23665,
+      "sha256": "cdf6a6e65d82f60e206c50bda350674d414c1ac6ce677898afa1396c2c702b5b"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 32387,
       "sha256": "b248c591dfb532dcbd3ba56b0fe615edf6dc6152752f7000715b36b2f56279b9"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 840355,
-      "sha256": "edbe97b9b223fd193bc1b337fab809d4de0e70836b70228dd91b16e6e71010c8"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9319,
-      "sha256": "ed2cd15cfdfb9c7a3cf8a434e059726551e5469cb825a82efe62d854ad937e01"
+      "bytes": 9509,
+      "sha256": "1d91978482358dd125fb2b4cb7677f81409b2939709fccb8cde5459577be5c2f"
     },
     {
       "path": "midi/ch01-folded-note/ch01-folded-note-combined.mid",
@@ -317,6 +297,16 @@
       "sha256": "c749318b959cd303edcb67c6d085a314b2871abf2683bf3cf2060c8be9f83877"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 786,
+      "sha256": "bd71623db4de638231f52254b697879c094749d4463869b1cda70b68987e5f1f"
+    },
+    {
       "path": "preview/chillhop-studies-simple-synth-preview.mp3",
       "bytes": 2261412,
       "sha256": "9a780a6e4aed1c4b9b1a9eca58876618f696eaa0d3bb6eece0689fedf6a366f8"
@@ -325,6 +315,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1129,
       "sha256": "ab438dac1ec82d2f168706ef165ebe4cb9e9c61d4cb4d05e946702d8e2139380"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3781,
+      "sha256": "193c505a9998b8c1cb7a948ef4387a7b85c7f33eedf1c1f9331aa982329b79d7"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
